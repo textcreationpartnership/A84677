@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarm to trumpets or, Mounte chival to every dejected, remisse, and secure trumpet, either in England, Scotland, or Ireland. By E. F.</title>
+            <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84677</idno>
+            <idno type="STC">Wing F1458A</idno>
+            <idno type="STC">Thomason E1361_3</idno>
+            <idno type="STC">ESTC R209188</idno>
+            <idno type="EEBO-CITATION">99868078</idno>
+            <idno type="PROQUEST">99868078</idno>
+            <idno type="VID">169842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169842)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1361[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarm to trumpets or, Mounte chival to every dejected, remisse, and secure trumpet, either in England, Scotland, or Ireland. By E. F.</title>
+                  <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. for E.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Edw. Ford.</note>
+                  <note>Annotation on Thomason copy: "Aug. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trumpet players --  England --  Early works to 1800.</term>
+               <term>Musicians --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169842:1" rendition="simple:additions"/>
+            <p> An Alarm to TRUMPETS: OR, Mounte Chival to every dejected, remiſſe, and ſecure Trumpet, either in <hi>England, Scotland,</hi> or <hi>Ireland.</hi>
+            </p>
+            <p>By <hi>E. F.</hi>
+            </p>
+            <q>
+               <bibl>Jerm. 4. 19, 20, 21.</bibl>
+               <p>My bowels, my bowels, I am pained at my very heart, my heart maketh a noiſe in me, I cannot hold my peace, becauſe thou haſt heard, O my ſoule, the ſound of the trumpet, the alarme of warre.</p>
+               <p>Deſtruction upon deſtruction is cried, for the whole land is ſpoyled: ſuddenly are my tents ſpoyled, and my curtains in a moment.</p>
+               <p>How long ſhall I ſee the ſtandard, and heare the ſound of the trumpet?</p>
+            </q>
+            <p>
+               <hi>London,</hi> printed by <hi>R. I.</hi> for <hi>E. F.</hi> 1651.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169842:2"/>
+            <head>To Horſe.</head>
+            <lg>
+               <l>Mount tag a taw naw, Mount tag a taw naw,</l>
+               <l>Mount tag a taw naw, Mount tag a taw naw,</l>
+               <l>Tinck tag a taw naw, Mount tag a taw naw,</l>
+               <l>Tinck tinck tag a taw naw, Mount tag a taw naw<g ref="char:punc">▪</g> &amp;c<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>woodcut of two horsemen blowing horns</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>Art thou ſeduc'd to ſin, and doſt diſcry</l>
+               <l>Thy heart aſſenting to it, then ſtraight way by</l>
+               <l>An Evangelicall conveyance ſay,</l>
+               <l>The Trumpet ſounds to Horſe, I cannot ſtay.</l>
+            </lg>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169842:2"/>
+            <head>To his worthy Friend M<hi rend="sup">r.</hi> 
+               <hi>John Bret,</hi> Trumpet in ſpeciall to His Excellencie the Lord Generall <hi>CROMWELL.</hi>
+            </head>
+            <opener>
+               <salute>Kind Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am perſwaded that you are very ſencible that we are fallen into as ſad and as bad times as hath be<g ref="char:EOLhyphen"/>fallen this Nation, ſince and long before we were acquainted with it; and indeed, let us ballance the effect but by the cauſe, and here's no cauſe of wonder<g ref="char:EOLhyphen"/>ment at all: We have often grieved and ſad<g ref="char:EOLhyphen"/>ned the good Spirit of the Lord, &amp; now the Lords Spirit is about to ſaden us; wee have moſt unkindly lain his honour in the duſt, &amp; now he is about to throw us into the grave; we have bin diſobedient to the golden Scep<g ref="char:EOLhyphen"/>ter of Chriſt, and now he may juſtly breake us in peeces with a rod of Iron. Yet howe<g ref="char:EOLhyphen"/>ver the changes and revolutions of the times may prove, it will goe well, very well with them that fear the Lord, of which number, I doe confidently beleeve that you are one;
+<pb facs="tcp:169842:3"/> witneſſe your Chriſtian carriage amidſt the ſad miſcarriages of very many men of our Profeſſion ſince the wars began; and though you have lain open to as many, if not more, temptations then any of us all, conſidering the very many Meſſages that you have bin imployed in, and how you have bin earneſtly ſolicited both by the adverſe party abroad, and importuned by your loving friends at home; and yet the candid love and recipro<g ref="char:EOLhyphen"/>cal affection you alwaies had to temperance and ſobriety, by aſſiſtance from on high, you have very ſafely waded through them all. I muſt confeſſe 'tis a great honour to you, that you have bin Trumpet to three moſt famous and renowned Generalls. <hi>viz.</hi> To the Right Honourable <hi>Robert</hi> Earl of <hi>Eſſex,</hi> to the right Honourable <hi>Thomas</hi> Lord <hi>Fairfax,</hi> and to the Right Honourable the Lord Gen: <hi>Cromwell;</hi> but to be ſervant to the moſt high and ever-living God, is an honor for you in a ſuperla<g ref="char:EOLhyphen"/>tive degree Indeed. Ile ſay no more for fear I may bee thought to flatter you, onely in<g ref="char:EOLhyphen"/>treat your love to patronize and ſhrow'd a ſheet or two under your kind protection; in doing which, you will very much oblige me to remaine,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your faithfull and aſſured Friend to command, <hi>Edw: Ford.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:169842:3"/>
+            <opener>
+               <salute>Deare Friends, and Brother TRUMPETS.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">K</seg>Nowing for certain that poor ſinfull man of all Creatures living is moſt prone and incident, (eſpecially in a naturall condi<g ref="char:EOLhyphen"/>tion) to permit and ſuffer the benefits of the Lord eaſily to ſlide and ſlip out of his minde, and to bury in oblivion all thoſe great and memora<g ref="char:EOLhyphen"/>ble mercies that he from time to time moſt gracious<g ref="char:EOLhyphen"/>ly hath bin pleaſed to give &amp; beſtow upon ſuch worth<g ref="char:EOLhyphen"/>leſſe wormes, and poore unworthy Creatures as wee are; and therefore to get our hearts into a frame of better obedience for the time to come, let us a little conſider what the Lord hath done for men of our quality by Sea and Land; notwithſtanding we have ſo grievouſly offended him both by Land and Sea, and for his unparallell'd love, and matchleſſe mer<g ref="char:EOLhyphen"/>cies extended to us on the Ocean Sea, there is many ancient and able Trumpets that are yet extant and living to this day, can give a large and better teſti<g ref="char:EOLhyphen"/>ment thereof then I, the names of ſome of them, as my ſmall acquaintance and ſhort memory will give
+<pb n="2" facs="tcp:169842:4"/> me leave, I briefly ſhall inſert to you, <hi>viz.</hi> Mr. <hi>Warner,</hi> Mr. <hi>Stock,</hi> Mr. <hi>Hopkins,</hi> Mr. <hi>Boſ<g ref="char:EOLhyphen"/>grave,</hi> Mr. <hi>Beale,</hi> Mr. <hi>Flowers,</hi> Mr. <hi>Simſon,</hi> M. <hi>Farrell,</hi> M. <hi>Slaughter,</hi> M. <hi>Day,</hi> M. <hi>Hawkins,</hi> Mr. <hi>Creammer,</hi> Mr. <hi>Deane,</hi> Mr. <hi>Loveday,</hi> Mr. <hi>Whitmeale,</hi> Mr. <hi>Cardiffe,</hi> Mr. <hi>Walker,</hi> Mr. <hi>An<g ref="char:EOLhyphen"/>ſlow,</hi> Mr. <hi>Smith,</hi> Mr. <hi>Jefferies,</hi> Mr. <hi>Johnſon,</hi> Mr. <hi>Gerard,</hi> Mr. <hi>Biſhop,</hi> Mr. <hi>Coe,</hi> Mr. <hi>Tay<g ref="char:EOLhyphen"/>lor,</hi> Mr. <hi>Hermon,</hi> Mr. <hi>Hill,</hi> Mr. <hi>Norman,</hi> Mr. <hi>Buckly,</hi> Mr, <hi>Collins,</hi> Mr. <hi>Spilſworth,</hi> Mr. <hi>Ar<g ref="char:EOLhyphen"/>goe,</hi> Mr. <hi>Boone,</hi> Mr. <hi>Seaton,</hi> Mr. <hi>Williams,</hi> Mr. <hi>Peacoke;</hi> theſe with many more, can evidence un<g ref="char:EOLhyphen"/>to the world, what mercies and miraculous preſerva<g ref="char:EOLhyphen"/>tions they have had, and how Divine Providence hath led them as it were by the hand, from place to place, from City to City, from Port to Port, and from one Haven to another, and never left them till hee had brought them home, and ſafely arrived them where they faine would bee; and for his love and lenity by Land, there is few or none of any faſhion, ranke, or quality, but can ſufficiently demonſtrate to the World, what choiſe and ſingular Deliverances they have had ſince and before the beginning of theſe inteſtine and unnaturall Warres; and ſince Ca<g ref="char:EOLhyphen"/>lamity like to a tedious Torrent, hath ſwiftly over<g ref="char:EOLhyphen"/>taken three poore diſtreſſed and diſtracted Nations all at once; and becauſe I am loath to appeare too ſilent in reference unto what was ſaid before, I
+<pb n="3" facs="tcp:169842:4"/> ſhall give you a liſt of ſome of the places, and emi<g ref="char:EOLhyphen"/>nent fights, where God in mercy moſt graciouſly did appear, both for the ſafety &amp; preſervation of ſuch as did profeſſe the quality of a Trumpet; as <hi>Branford, Hounſlow, Baſing, Dorcheſter, Lynne, Wey<g ref="char:EOLhyphen"/>mouth, Tanton, Briſtoll, Bridgewater, Ply<g ref="char:EOLhyphen"/>mouth, Liſtethell, Newbury, Oxford,</hi> the <hi>Vi<g ref="char:EOLhyphen"/>zes, Cherry-downe, New-market, Gloceſter, Edgehill, Marſton-Moore, Nazeby,</hi> with many places more, in all which fights and ſeverall skir<g ref="char:EOLhyphen"/>miſhes, I never yet could learn that there was above twenty Trumpets ſlain, onely now and then a Trum<g ref="char:EOLhyphen"/>pet wounded and taken priſoner ſometimes, which could not poſſibly bee avoided in ſuch notable chaſe and dangerous fights as many of theſe ſame were; and how the Lord hath mightily preſerved you both in <hi>Scotland, Ireland, Holland, France,</hi> and <hi>Spaine,</hi> and other remote places of the world, is not unacquainted, nor concealed to any rationall and knowing man; beſides, when you have ridden ſolely by your ſelves, ſometimes fourty, threeſcore, a hundred miles an end, how have you bin preſerved from pri<g ref="char:EOLhyphen"/>vate Ambuſcadoes, Toryes, the Moſſe-Troopers, Robbers, and the like? delivering your Letters and ſeverall Meſſages with a great deale of ſafety, civi<g ref="char:EOLhyphen"/>litie, and reſpect; and in concluſion, very well returned to your own Garriſons in health againe, which is and hath bin no ſmall mercy to us, if we conſider of the
+<pb n="4" facs="tcp:169842:5"/> ſame aright; nay, hath he not very often made the very quarters of the enemy a receptacle and place of ſafety for us: Moreover, how bountifull and for<g ref="char:EOLhyphen"/>ward hee hath bin to beſtow upon us many a liber<g ref="char:EOLhyphen"/>all and large advance, notwithſtanding how back<g ref="char:EOLhyphen"/>ward we have bin to advance his glory for the ſame, and what a non-improvement we, or the moſt of us have made of the many favours, and the large Tallents he hath given unto us, is beſt knowne unto his ſacred ſelfe and our poor ſinfull ſelves; Likewiſe how carefull God hath alwayes bin to feed us with the finest Wheat, &amp; cloath our bodies with the pureſt Wool, notwithſtanding wee have not hungred and thirſted after Righteouſneſſe, nor yet earneſtly de<g ref="char:EOLhyphen"/>ſired to have our ſouls inveſted with the long white garment of Chriſts Righteouſneſſe, as they that live under a Goſpel diſpenſation ought indeed to doe; and truly, if every one that hath a ſilver Trumpet, had but a ſanctified ſoul annexed thereunto, doubtleſſe we ſhould be more ſound in our judgements, and more pi<g ref="char:EOLhyphen"/>ous in our practiſe then at this day wee doe appeare, and manifeſt our ſelves unto the world to bee; but ſome I know will readily object and ſay, what is the meaning of all this? doth Vice correct Sin? doth he that preſſes us ſo hard to conſider the goodneſſe of the Lord to us, and our ingratfulneſſe to him do ſo him<g ref="char:EOLhyphen"/>ſelf? doe we not know he is a man that hath as much forgot the love and lenity of God as any of us all? or
+<pb n="5" facs="tcp:169842:5"/> are we not acquainted that he is one that hath a long time had the forme of godlineſſe, yet hath denied the power and efficaſie of it in a good Life and Conver<g ref="char:EOLhyphen"/>ſation, and to this day for ought we know, or viſibly can diſcerne, continues the ſame man? Why truely Gentlemen, I muſt ingenuouſly confeſſe with heavi<g ref="char:EOLhyphen"/>neſſe of heart, and griefe of ſoule, that you are not miſtaken in what you doe affirme, I willingly could wiſh you were, on condition I ſhould take the miſtake very patiently; for indeed I muſt confeſſe; according to the allowance of the word, that I am one that hath refuſed to worke in Gods<g ref="char:punc">▪</g> Vineyard, excuſed the great Supper of the Lord, and ſleighted the mar<g ref="char:EOLhyphen"/>riage of the Kings Son; by which ſad conſequence it hath come to paſſe that I have ſinned againſt the cleareſt light, and deareſt love that ever poore crea<g ref="char:EOLhyphen"/>ture could tranſgreſſe againſt; and if any one of you that is leſſe offenſive then my ſelf, will pleaſe to fling the firſt ſtone at me, I ſhall neither ſnarle at the hand, nor yet bite the ſtone, but kindly ſalute the one, and meekly kiſſe the other; and truly there is great reaſon for the ſame: for if the Young-man in the law that was but diſobedient to his earthly parents, was to be ſtoned to death, how juſtly might this ſentence paſſe on me that have bin ſo ſtubborne, rebellious, and diſobedient to my Heavenly Father? And if in the Goſpell St. <hi>Stephen</hi> ſuffered for his conſtant ad<g ref="char:EOLhyphen"/>hearence to Chriſt and his Truth, well may I ſuffer
+<pb n="6" facs="tcp:169842:6"/> for my conſtant ſeparation from the truth of Chriſt. In few words; Gentlemen, I am a man that am really dead in treſpaſſes and ſinnes, and yet I truſt in the blood of the Lambe, I am not twice dead and pulled up by the roots, and though I have gone a long time a ſtray from my God, I ſhall now at the laſt and e<g ref="char:EOLhyphen"/>leventh houre of the day, returne to my deare Shep<g ref="char:EOLhyphen"/>heard and ſweet Biſhop of my ſoul. In order hereunto I ſhall intreat your prayers unto God for me, as mine ſhall be to the Thron of Grace for you, and that in much mercy he would be pleaſed to ſay to your ſpi<g ref="char:EOLhyphen"/>rituall deſertions, and my inordinate affections, as he is pleaſed to ſay unto the raging ſurges of the Sea; thus far ſhall you goe, and no further. This is and ſhall be the prayers of</p>
+            <closer>
+               <signed>Your aſſured Friend and Servant <hi>Edw. Ford,</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:169842:6"/>
+            <head>A Briefe deſcription of the vanity of the times wherein we live.</head>
+            <l>A Man is happy when he doth begin</l>
+            <l>For to diſcerne the ſinfulneſſe of ſin,</l>
+            <l>And when he daily doth contrive and plot</l>
+            <l>To uſe this world as if he uſ'd it not;</l>
+            <l>And not to truſt unto a broken reed,</l>
+            <l>But ſeeks for that is happineſſe indeed:</l>
+            <l>'Las what is pleaſure but a Harlots ſmile,</l>
+            <l>Which while it ſtrokes you, may be kils the while</l>
+            <l>&amp; will involve you into ſuch a ſnare</l>
+            <l>That will deſtroy you, if you have not care;</l>
+            <l>For Satan ſhews the milk thinks wil prevail,</l>
+            <l>But doth obſcure the hammer and the naile.</l>
+            <l>Shews us her oylie words that do diſtil</l>
+            <l>from her ſmooth tongue, but hides the dart wil kil,</l>
+            <l>Then happy he that can her beauty view</l>
+            <l>Not to his hurt, but rather to eſchew</l>
+            <l>Thoſe wayes of hers that do directly lead</l>
+            <l>Vnto that place where many a one lies dead.</l>
+            <l>And what is riches, but a glittering prize,</l>
+            <l>Set on a pinacle to feaſt the eyes?</l>
+            <l>And for to pleaſe thoſe ſenſes leaſt deſerve,</l>
+            <l>Whilſt that the better parts is like to ſtarve.</l>
+            <pb n="8" facs="tcp:169842:7"/>
+            <l>Have you not heard of ſom to purchaſe gold</l>
+            <l>Hath both their ſouls and bodies ſadly ſold</l>
+            <l>&amp; paun'd that jem, how ſlight ſo ere it ſeem,</l>
+            <l>The Vniverſall world can neere redeem?</l>
+            <l>How many men that hath like horſes toil'd,</l>
+            <l>A little fire hath undone and ſpoil'd?</l>
+            <l>How many Merchants in this City too,</l>
+            <l>That never any want or hunger knew,</l>
+            <l>A little water that the winds hath ſpread,</l>
+            <l>hath ſent theſe men fairly to beg their bread.</l>
+            <l>And therefore my advice in fine ſhall bee</l>
+            <l>To labour not for Gold, but Puritie,</l>
+            <l>For that will put a man in ſuch a way</l>
+            <l>He ſhall be ſafe, when th'other doth decay.</l>
+            <l>'Las what is Honour, but a little fame</l>
+            <l>That's blotted out ere one can write his name.</l>
+            <l>And what's the <hi>ſmile</hi> of <hi>great men</hi> now in <hi>power</hi>
+            </l>
+            <l>Much like the morning dew or <hi>April</hi> ſhower</l>
+            <l>May be 'twill wet a man from top to toe,</l>
+            <l>Yet by the fire it will melt like Snow;</l>
+            <l>I meane the fire of Adverſitie,</l>
+            <l>Be this ſame Honour ne're ſo great or high.</l>
+            <l>Have you not heard or ſeen a while agoe,</l>
+            <l>How Majeſty was maſter'd by a Blow,</l>
+            <l>And he that had 3 Kingdoms of his owne,</l>
+            <l>Could not get leave at laſt to live in one;</l>
+            <l>And ſince that time many great ones bereft</l>
+            <l>Of their deare lives, and ſeverall Stations left</l>
+            <pb n="9" facs="tcp:169842:7"/>
+            <l>To ſatisfie the world in the event,</l>
+            <l>Ther's nothing here below thats permanent;</l>
+            <l>Then if we would have honour that wil laſt,</l>
+            <l>Let us like good proficients, wiſely caſt,</l>
+            <l>To bring Jehovah honour, lauding his name</l>
+            <l>That ſits in heaven, and laughs vild men to ſhame.</l>
+         </div>
+         <div type="poem">
+            <head>A kind of perſwaſion to temperance.</head>
+            <l>DOſt in a morning favour drink that's ſtrong,</l>
+            <l>Then do not drink thy mornings draught too long;</l>
+            <l>However let me crave, and beg this Boon,</l>
+            <l>You do not drink your mornings draught till noon,</l>
+            <l>But you undoe your ſolid ſences quite,</l>
+            <l>If that you drink your mornings draught till night,</l>
+            <l>For many men in their exceſſive Bowles,</l>
+            <l>With their owne bodies over-throw their ſoules;</l>
+            <l>And therefore never let thy owne right hand</l>
+            <l>Ruine thy ſelfe, by breaking this command:</l>
+            <l>Grant me but this, and truly though I'm poore,</l>
+            <l>Ile never begge of you, nor yours, more.</l>
+         </div>
+         <div type="poem">
+            <head>Againſt exceſſive mirth in mourn<g ref="char:EOLhyphen"/>full times.</head>
+            <l>YOu Halcyon Lads that ſings, and joyfull are,</l>
+            <l>And very blithe will be deſpight of War,</l>
+            <l>Let me intreat this favour at your hand,</l>
+            <l>To think upon the miſery of the Land,</l>
+            <pb n="10" facs="tcp:169842:8"/>
+            <l>And be not over-frolick, till you ſee</l>
+            <l>Some motives may induce jocundity;</l>
+            <l>For when the Churches head is ſick, or akes,</l>
+            <l>Then all her Members preſently partakes</l>
+            <l>Of her deplored griefe, and doth bewaile,</l>
+            <l>Thoſe ſorrowes makes her look ſo wan and pale;</l>
+            <l>And truly methinkes 'tis a grievous thing,</l>
+            <l>When God is angry, for to ſit and ſing,</l>
+            <l>And when his Judgements are upon the earth,</l>
+            <l>To frame our ſelves to fond and fooliſh mirth;</l>
+            <l>Therefore let me intreat each one a while</l>
+            <l>Forbeare to laugh, till God is pleas'd to ſmile.</l>
+         </div>
+         <div type="aphorisms">
+            <head>Neceſſary Aphoriſmes for a Trumpet to obſerve.</head>
+            <p>THree things very good for a Trumpet to practiſe; to practiſe his Trumpet, to practiſe the truth, and to practiſe piety.</p>
+            <p>Three good things for a Trumpet to obey; to obey his Creator, to obey his Comman<g ref="char:EOLhyphen"/>der, and to obey the Goſpel of Chriſt.</p>
+            <p>Three good things for a Trumpet to re<g ref="char:EOLhyphen"/>member; to remember his Creator in the dayes of his youth, to remember his youth in the dayes of his age, and to remember his end in the beginning of his dayes.</p>
+            <p>Three things very bad for a Trumpet to forget; to forget his great deliverances by
+<pb n="11" facs="tcp:169842:8"/> Land, his wonderfull preſervation by Sea, and his marvellous ſafety in the City.</p>
+            <p>Three bad things for a Trumpet to be full of; to have his eyes full of adultery; his head full of foolery, and his mind full of miſchiefe.</p>
+            <p>Three things very unfit for a Trumpet to begin; to begin Healths, to ſeeke Healths and to ſound Healths.</p>
+            <p>Three good things for a Trumpet to find; to finde mercy with God, and honour him for it; to finde favour with good men, and reſpect them for it; and to finde out his faults, and obtain faith to mend them.</p>
+            <p>Three good things for a Trumpet to keep; to keep a faire correſpondency with thoſe he deales withall, to keep good com<g ref="char:EOLhyphen"/>pany, and to keep a good conſcience.</p>
+            <p>Three good things for a Trumpet to ſet light by; to ſet light by the loſſes of the world, to ſet light by the croſſes of the world, and to ſet light by deeds of dark<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Three things very bad for a Trumpet to be an Artiſt in; to be an Artiſt in the wayes of wickedneſſe, to be expert in the paths of impiety, and to be delightfully a<g ref="char:EOLhyphen"/>cute in the wiles and ſtratagems of ſinne, and Satan.</p>
+            <pb n="12" facs="tcp:169842:9"/>
+            <p> Three things very bad for a Trumpet to loſe; to loſe his taſte, to loſe his teeth, and to loſe his time.</p>
+            <p>Three things very dangerous for a Trum<g ref="char:EOLhyphen"/>pet; to look high, to feed high, and to climbe high.</p>
+            <p>Three things very good for a Trumpet; good ſtore of modeſty, good ſtore of mercy, and good ſtore of money.</p>
+            <p>Three things very bad for a Trumpet to fall into; to fall into a Pit, to fall into Per<g ref="char:EOLhyphen"/>jury, and to fall into Poverty.</p>
+            <p>Three things very bad for a Trumpet; a bad Moore, a bad march, and a bad mind.</p>
+            <p>Three very hard things for a Trumpet to learne; to learne continency in the Stewes, temperance in a Taverne, and righteous acti<g ref="char:EOLhyphen"/>ons amongſt roaring boyes.</p>
+            <p>Three good things for a Trumpet to keep; to keep touch, to keep tune, and to keep time.</p>
+            <p>Three things very good for a Trumpet; a good colour, good cordins, and a good conſcience.</p>
+            <p>Three other things good for a Trumpet; good Lungs, a good Lip, and a good life.</p>
+         </div>
+         <div type="poem">
+            <pb n="13" facs="tcp:169842:9"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Rom.</hi> 13. 14.</bibl>
+                  <p>And make no proviſion for the fleſh.</p>
+               </q>
+            </epigraph>
+            <l>MAke no proviſion for the fleſh? why then</l>
+            <l>I muſt forbeare to be, or live 'mongſt men,</l>
+            <l>And neither muſt I be, or come by far,</l>
+            <l>In any company where women are,</l>
+            <l>Eſpecially if they be pleaſing to the eye,</l>
+            <l>For then I ſhall tranſgreſſe undoubtedly;</l>
+            <l>I muſt not think a thought that is uncleane;</l>
+            <l>Of any immodeſt Curtizanion,</l>
+            <l>Nor ſpeake a ſyllable that may ſuggeſt,</l>
+            <l>There's ſomething that's uncleane within my breſt,</l>
+            <l>And then by conſequence it will be wrought,</l>
+            <l>I muſt not act by no meanes what is nought;</l>
+            <l>Nor muſt I by my childiſh ignorance</l>
+            <l>
+               <g ref="char:V">Ʋ</g>ſe any fooliſh, wanton dalliance,</l>
+            <l>And prattle forth ſuch talk as may impart</l>
+            <l>My mouth is very foule, and ſo's my heart.</l>
+            <l>Againe, if this be true, why then I gueſſe,</l>
+            <l>I muſt not drink at no time in exceſſe;</l>
+            <l>No, nor at no time eate a meale that may</l>
+            <l>Provoke the fleſh, but rather it allay;</l>
+            <l>And if this Aphoriſme I would keep</l>
+            <l>I muſt be carefull too of too much ſleep,</l>
+            <l>I muſt not condeſcend, aſſent, or pleaſe</l>
+            <l>To give my mouldering body too much eaſe;</l>
+            <pb n="14" facs="tcp:169842:10"/>
+            <l>I muſt not goe too gorgeous in attire,</l>
+            <l>For that like Tinder, ſets mans Luſt on fire;</l>
+            <l>But decently adorne my body ſo,</l>
+            <l>That all imperious thoughts may be kept low;</l>
+            <l>I muſt at no time looke too curiouſly</l>
+            <l>
+               <g ref="char:V">Ʋ</g>pon a beauty, whoſe attractive eye</l>
+            <l>May render me obnoxious, and impare</l>
+            <l>My thoughts that ſhould be chaſte, as <hi>Joſephs</hi> were.</l>
+            <l>Likewiſe all objects I muſt ſtill deny,</l>
+            <l>That doth but reliſh, taſte of vanity;</l>
+            <l>All curious Peeces pencild lively forth,</l>
+            <l>By me muſt be eſteem'd of little worth:</l>
+            <l>All places too of pleaſure I muſt ſhun,</l>
+            <l>And ne're to Theators, or Paſtime run;</l>
+            <l>I muſt not ſport like the Leviathan</l>
+            <l>My life away, that is but like a ſpan;</l>
+            <l>Nor come in company, whoſe carryage may</l>
+            <l>Tell me, they doe not love a pious way;</l>
+            <l>And while I have a being here on earth,</l>
+            <l>I muſt not give my ſelf to too much mirth,</l>
+            <l>But circumſpectly keep my heart in awe,</l>
+            <l>And not like children, laugh at every ſtraw,</l>
+            <l>Working out my ſalvation while I am here,</l>
+            <l>With Saint-like ſighs, with trembling, and with feare.</l>
+            <l>But ſtay, my ſoule, is this the way to bliſſe?</l>
+            <l>Then prethee ſay, How far art thou from this?</l>
+            <l>For by thy ſcandalous and knowing ſin,</l>
+            <l>Thou haſt brought many a ſoule to ſuffering;</l>
+            <pb n="15" facs="tcp:169842:10"/>
+            <l>As firſt, by thy preſumptuous ſins ſo rife,</l>
+            <l>Thou haſt aym'd to crucifie the Lord of life,</l>
+            <l>And by thy breaking of his bleſt commands,</l>
+            <l>Thou didſt ſurrender him into cruell hands,</l>
+            <l>And did not his great love thy hate repell,</l>
+            <l>Thou mightſt have ſought thy ſoule ere now in hell:</l>
+            <l>Likewiſe conſider, 'tis for thy offence</l>
+            <l>Gods people ſuffer for their innocenſe,</l>
+            <l>And many a Saint is brought in jeopardy,</l>
+            <l>Not for their owne, but thy impiety.</l>
+            <l>Againe conſider, if thy patient Wife,</l>
+            <l>Doe not injoy the comforts of this life,</l>
+            <l>The fault's thy owne, that has ſo laviſh been,</l>
+            <l>Feaſting abroad, when ſhe oft faſts within:</l>
+            <l>Or doth thy Children want that nouriſhment,</l>
+            <l>That pretty babes expects to give content;</l>
+            <l>'Tis thy default that art ſo fooliſh grown,</l>
+            <l>To waſte on wantons, and neglect thy own:</l>
+            <l>And doe but think upon the little Lambs,</l>
+            <l>That harmleſly diſports upon the Plaines,</l>
+            <l>Should they, I ſay, want of their uſuall food,</l>
+            <l>It is becauſe that in thy drunken mood</l>
+            <l>Thou haſt abus'd thoſe mercies God has ſent,</l>
+            <l>Both for thy owne, and for their nouriſhment;</l>
+            <l>Or doſt thou ſee the Oxen, Cow, or Horſe</l>
+            <l>Lament i'th field, and low for want of graſſe?</l>
+            <l>The reaſon is, becauſe thy Leprous luſt</l>
+            <l>Has burn'd the graſſe, and hay, ſo neare to duſt</l>
+            <pb n="16" facs="tcp:169842:11"/>
+            <l>That they can get no food for to ſuffice</l>
+            <l>Their bodies, without which thy body dyes.</l>
+            <l>In brief, ſince we perceive the efficient cauſe</l>
+            <l>Of all our ſorrowes is the breach of Lawes,</l>
+            <l>'Tis meet we doe repent while we have breath;</l>
+            <l>Before the Nation bleed it ſelfe to death;</l>
+            <l>And that we ſeriouſly reforme our wayes,</l>
+            <l>Before the Sword and Famine end our dayes;</l>
+            <l>Look North-ward, and behold a cloud of bloud,</l>
+            <l>And then look South-ward, and behold no good;</l>
+            <l>Take a Proſpective-glaſſe, and view the Weſt,</l>
+            <l>Alas the Eaſt, and that is like the reſt.</l>
+            <l>Now ſeeing that no ſafety can be found,</l>
+            <l>On <hi>Iriſh, Scottiſh,</hi> no nor <hi>Engliſh</hi> ground,</l>
+            <l>Let's goe to Chriſt, for it is he will teach us</l>
+            <l>Away to live, where Armies cannot reach us;</l>
+            <l>And therefore in all dangers let's imbrace,</l>
+            <l>And make the King of Kings our hiding place;</l>
+            <l>So ſhall we be ſecure when ſtormes ariſe,</l>
+            <l>Living in bliſſe when our poore bodies dyes.</l>
+         </div>
+         <div type="part">
+            <head>Let me crave your patience to peruſe a few lines more and I have done.</head>
+            <opener>
+               <salute>Deare friends:</salute>
+            </opener>
+            <p>According to my meane a<g ref="char:EOLhyphen"/>bility, you have had a little taſte of the Lords extraordinary love and lenity to us, and our empty returnes of obedience to him
+<pb n="17" facs="tcp:169842:11"/> againe. Now as we have had a feaſt of his favour, could he but have a little reliſh of our love to him it would doe well; it is not unknowne to you, that there is but three paces more eſpecially that doth direct a man either to paine, or Paradiſe: He that by his little and ſmall ſins, as he accounts, ſlowly creeps to Hell, doth very bad; but he that by his more known and ſcandalous offen<g ref="char:EOLhyphen"/>ces goes a round pace thither, doth a great deale worſe; but he that by his more pro<g ref="char:EOLhyphen"/>fuſe and riotous living runs thither, doth worſt of all: So on the contrary, he that by his ſmall and feeble faith endeavours for to creep to Chriſt, doth well; but he that by a ſtronger faith goes luſtily, doth better: but he that by the mighty power of God with cheerfulneſſe, and alacrity, doth ſweetly run his wayes, doth beſt of all; O that we could ſo run, as through the ſtrength of Chriſt we might obtaine.</p>
+            <p>Deare Sirs, let us conſider, and a little re<g ref="char:EOLhyphen"/>collect our memory what we came into this world for; was it doe you think to ſport like the Leviathan in the Sea, and for to waſt our dayes in wanton dalliance, ſurely no; alas, you know our errand hither was, to get God glory, and to ſave our poore ſoules;
+<pb n="18" facs="tcp:169842:12"/> but how neglective we have been in he one, and conſtantly remiſſe in the other, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s you know knowne unto the Searcher and Trier of the reines farre better then to us, for we doe finde by ſad experience, Judgements has not deterr'd us. Menaces has not warn'd us, nor many mercies won us; and though the Sword be drawne, yet we cannot be drawn from the vaine vani<g ref="char:EOLhyphen"/>ties of this preſent life, and fading pleaſures of this wicked world.</p>
+            <p>There is a notable paſſage in the ſecond of <hi>Kings,</hi> the fift chap. and about the 26, &amp; 27 ver. where covetous <hi>Gehazi</hi> abuſing the name of his kinde Maſter to <hi>Naaman</hi> the Syrian, by which meanes he receives of him two tallents of Silver in two baggs, and the two changes of Garments without the conſent of the good old man, but the buſineſſe being underſtood, and clear'd up to him, he ſharply doth reprove him for his fault, ſaying unto him, <hi>Is this a time to re<g ref="char:EOLhyphen"/>ceive mony, garments, olive-yards, vine-yards, ſheep, oxen, men ſervants, and maid ſervants?</hi> and in few words told him, <hi>that the Leproſie of Naaman ſhould cleave to him and his poſterity, and strait way he went out of his preſence a Leper as white as Snow.</hi> Why even ſo might all the
+<pb n="19" facs="tcp:169842:12"/> good <hi>Eliſha's,</hi> the Miniſters of the truth, juſtly reprove &amp; ſay to us, when in our fran<g ref="char:EOLhyphen"/>tick mood we are no whit aſhamed to knock and call for Wine when wee have Wine e<g ref="char:EOLhyphen"/>nough, and with our Trumpet openly pro<g ref="char:EOLhyphen"/>claime our follies to the world, may they not then alleadge, is this a time for to drink wine in Bowls, and ſound ſhril healths til we are ſick againe? is this a time for to ſpend all our time to purchaſe change of Garments for the body, and to neglect the covering of the ſoule? is this a time to ravell out our dayes in filthy idle jeſts, and ſpend our pre<g ref="char:EOLhyphen"/>cious minuts in obſcene and ſcurrilous diſ<g ref="char:EOLhyphen"/>courſe? is this a time to viſit Theators, ſit in a Tavern, ſing, rejoyce, and laugh, when as the pious party and holy people of the Land ſit by the Waters of <hi>Babylon</hi> weeping, and have hung their Harps upon the Willows, and wil not be comforted becauſe God is diſpleaſed?</p>
+            <p>One pregnant paſſage more betweene <hi>Da<g ref="char:EOLhyphen"/>vid</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> and I ſhall conclude; it is in the ſecond of <hi>Samuel</hi> the 11. Chap. the 8, 9, 10, and 11. verſes. After the Prophet <hi>David</hi> had demanded of <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> how <hi>Joab</hi> did, how the people did, and how the waſting Warre did proſper, he being willing to win him to his bed, he doth uſe ſome modeſt motives to
+<pb n="20" facs="tcp:169842:13"/> invite him thither; but when his purpoſe would not take effect, he uſes another argu<g ref="char:EOLhyphen"/>ment to perſwade him, that he had rid a very tedious and toylſome Journey, and therefore thought it meet and neceſſary hee ſhould re<g ref="char:EOLhyphen"/>poſe and reſt himſelfe a while, but pray ob<g ref="char:EOLhyphen"/>ſerve his warlike anſwer to him.</p>
+            <p>
+               <hi>And</hi> Vriah <hi>ſaid unto</hi> David, <hi>The arke, and</hi> Iſ<g ref="char:EOLhyphen"/>rael, <hi>and</hi> Judah <hi>abide in tents, and my Lord</hi> Jo<g ref="char:EOLhyphen"/>ab, <hi>and the ſervants of my Lord are encamped in the open fields; ſhall I then goe unto my houſe, to eat and drinke, and to lie with my wife? as thou liveſt, and as thy ſoule liveth, I will not doe this thing.</hi> The Application that we may eaſily collect from hence is this.</p>
+            <p>That if this gallant and heroick Chriſtian did ſo readily refuſe theſe pleaſures, and re<g ref="char:EOLhyphen"/>freſhments that were very good and lawfull of themſelves, as to goe downe to his houſe to eat and drinke, and to embrace his Wife: becauſe the Arke, <hi>Joab;</hi> and many of Gods people were incamped in the open fields, and might for ought he knew, bee ingaged with the enemies of the truth before he might re<g ref="char:EOLhyphen"/>turne back to the Campe againe; how ſhould this move us then now that the Arke, I mean the Cauſe of God is in diſpute, and many of Gods people hath bin encamp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in open
+<pb n="21" facs="tcp:169842:13"/> field many a Winters night, and tedious ſtormie day? how ſhould this, I ſay ſolemn<g ref="char:EOLhyphen"/>ly invite us to forſake our former fooliſh diſports, and utterly to abandon and relin<g ref="char:EOLhyphen"/>quiſh every unlawfull luſt &amp; pleaſure what<g ref="char:EOLhyphen"/>ſoever; and if our hearts be ſo obdurate that we cannot bring them to ſuffer for the Lord in open field, let us never ſuffer them to ſin againſt him in a private roome; and if wee cannot be wooed to joyne with the people of God for the teſtimony of the truth and a good Conſcience, let us never joyn with the people of the world againſt our Conſcience and its teſtimony.</p>
+            <p>Alas, you ſee already here is three totter<g ref="char:EOLhyphen"/>ing Nations, and a few ſtedfaſt ſoules; many broken heads, but a few bleeding hearts; therefore it is very requiſit that hereafter we doe walke more circumſpectly, not as fooles, but as wiſemen, <hi>Redeeming the time be<g ref="char:EOLhyphen"/>cauſe the dayes are evil;</hi> in order hereunto, it is very fit that we ſpeedily, frequently, and fervently apply our ſelves unto the thron of Grace to obtaine mercie, and find Grace to helpe in time of need: imploring and beg<g ref="char:EOLhyphen"/>ing of him for the ſonne of his loves ſake, to infuſe into us a principle of Life and Grace, that we may bee his Children not onely by
+<pb n="22" facs="tcp:169842:14"/> name, but by nature alſo; ſo ſhal we ſtand in awe, and ſin not, commune upon our beds &amp; be ſtill, counting it indeed an ignominious ſhame, that the Lackey ſhould live more in awe of his Lord, then we of <hi>Jehovah-<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſſi;</hi> that the Servant ſhould ſtand more in awe of his Maſter, then we doe very often of our Maker; and that the Child ſhould ſtand more in awe of his earthly Parents, then we of our heavenly Father. <hi>Tis time</hi> (ſayes David) <hi>that thou have mercy upon</hi> Sion, <hi>yea the time is come;</hi> and in order hereunto, it is time that wee forſake our ſinnes, yea, the time is come, it is time that we abandon our impiety, when our impiety is about to abandon us; it is time to forſake riotous and tippling houſes when the Judge is at the doore; high time to get Chriſt into our hearts, when the King<g ref="char:EOLhyphen"/>dome of heaven is at hand. But I grow too tedious, conſider what is ſaid, and the Lord give us underſtanding in all things.</p>
+         </div>
+         <div type="part">
+            <head>A few faire Caveats for ſecure Chriſtians.</head>
+            <p>DEclare in Judah, and publiſh in Jeru<g ref="char:EOLhyphen"/>ſalem, and ſay, Blow ye the Trumpet in the Land, cry, gather together and ſay; Aſſemble your ſelves, and let us goe into the defenced Cities.</p>
+            <pb n="23" facs="tcp:169842:14"/>
+            <p> Set up the ſtandards towards <hi>Zion,</hi> retire, ſtay not, for I will bring evill from the North, and a great deſtruction, <hi>Jer.</hi> 4. 5, 6.</p>
+            <p>And the Word of the Lord came unto me the ſecond time, ſaying, What ſeeſt thou? and I ſaid, I ſee a ſeething pot, and the face thereof was towards the north.</p>
+            <p>Then the Lord ſaid unto me, out of the north an evill ſhall break forth upon all the inhabitants of the Land, <hi>Jer.</hi> 2. 13, 14.</p>
+            <p>O ye children of <hi>Benjamin,</hi> gather your ſelves to fly out of the midſt of <hi>Jeruſalem,</hi> and blow the Trumpet in <hi>Tecoa,</hi> and ſet up a ſigne of fire in <hi>Beth-haccerem,</hi> for evill ap<g ref="char:EOLhyphen"/>peares out of the north, and great deſtru<g ref="char:EOLhyphen"/>ction; thus ſaith the Lord, Behold, a peo<g ref="char:EOLhyphen"/>ple commeth from the north Country, and a great Nation ſhall be raiſed from the ſides of the earth, <hi>Jer.</hi> 6. 1. 22.</p>
+            <p>The great Day of the Lord is neare, it is neare, and haſteth greatly, even the voyce of the Day of the Lord; the mighty man ſhall cry there bitterly, that day is a day of wrath, a day of trouble, and diſtreſſe, a day of the Trumpet, and Alarm againſt the fenced Cities, and againſt the high Towers, <hi>Zeph.</hi> 1. 14, 15, 16. And behold, God himſelfe is with us for our Captaine,
+<pb n="24" facs="tcp:169842:15"/> and his Prieſts with ſounding Trumpets, to cry alarm againſt you. O children of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> fight not againſt the Lord God of your Fathers, for you ſhall not proſper, 2 <hi>Chron.</hi> 13. 14.</p>
+            <p>Therefore behold, the dayes come ſaith the Lord, that I will cauſe an alarm of war to be heard in <hi>Rabbah</hi> of the <hi>Ammonites,</hi> and it ſhall be a deſolate heap, and her daugh<g ref="char:EOLhyphen"/>ters ſhall be burnt with fire, then ſhall <hi>Iſrael</hi> be heire unto them that were his heires, ſaith the Lord, <hi>Jer.</hi> 49. 2.</p>
+            <p>Blow ye the Trumpet in <hi>Zion,</hi> and ſound an alarm in my holy Mountaines, let all the inhabitants of the Land tremble, for the day of the Lord commeth, for it is nigh at hand; blow ye the trumpet in <hi>Zion,</hi> ſanctifie a Faſt, call a ſolemn aſſembly, <hi>Ioel</hi> 2. 1. 15.</p>
+            <p>For the Builders, every one had his ſword girded by his ſide, and ſo builded, and he that ſounded the trumpet was by me; and I ſaid unto the Nobles, and unto the Rulers of the people, the work is great &amp; large, and we are ſeparated from the wall one far from another, in what place there<g ref="char:EOLhyphen"/>fore ye heare the ſound of the trumpet, re<g ref="char:EOLhyphen"/>ſort ye thither unto us, our God ſhall fight for us, <hi>Neh.</hi> 4. 18, 19, 20.</p>
+            <pb n="25" facs="tcp:169842:15"/>
+            <p> Shall a trumpet be blowne in the City, and the people not be afraid? Shall there be evill in the City, and the Lord hath not done it, <hi>Amos</hi> 3. 6.</p>
+            <p>Sonne of Man, ſpeake unto the Children of thy people, and ſay unto them; When I bring the Sword upon the Land, if the peo<g ref="char:EOLhyphen"/>ple of the Land take a man of their coaſts, and ſet him for their Watch-man, if when he ſees the Sword come upon the Land, he blow the trumpet, and warne the people, then whoſoever heares the ſound of the trumpet, and takes not warning, if the Sword come and take him away, his bloud ſhall be upon his owne head.</p>
+            <p>He heard the ſound of the trumpet, and took not warning, his bloud ſhall be upon him; but he that takes warning ſhall deli<g ref="char:EOLhyphen"/>ver his ſoule, <hi>Ezek.</hi> 33. 2, 3, 4, 5.</p>
+            <p>A prudent man fore-ſees the evill, and hides himſelfe, but the ſimple paſſe on and are puniſhed, <hi>Prov.</hi> 22. 3.</p>
+            <p>But ſtay:</p>
+            <div type="poem">
+               <l>MEthinks I hear poor <hi>Malachi</hi> complaine,</l>
+               <l>That <hi>Iſrael</hi> deales unkindly, and prophaine,</l>
+               <l>Their irreligiouſneſſe he mentions too,</l>
+               <l>'Tis my default, and ſighing, ſay, 'tis true:</l>
+               <pb n="26" facs="tcp:169842:16"/>
+               <l>For pray, how many times have I declar'd,</l>
+               <l>That i'de goe labour in Gods Vine-yard,</l>
+               <l>Suppoſing it indeed a great diſgrace,</l>
+               <l>For to ſit idle in the Market-place;</l>
+               <l>And ſtrait-way has my nimble thoughts rid Poſt,</l>
+               <l>For to be there at nine a clock at moſt,</l>
+               <l>But ſinfull ſpraines made both my feet ſo lame,</l>
+               <l>That it was near a leaven before I came;</l>
+               <l>Nay, my luke-warm affections was ſo ſtal'd,</l>
+               <l>I had not then come, had I not been cal'd,</l>
+               <l>And when I was arriv'd, the heat of day</l>
+               <l>Made me ſo faint that I could hardly ſtay,</l>
+               <l>And that which mov'd me chiefly to be gone,</l>
+               <l>Was, 'cauſe I ſaw that ſome had almoſt done,</l>
+               <l>And 'cauſe that I ſo long had loytering been,</l>
+               <l>That I had all my labour to begin;</l>
+               <l>Yet to't I fell, and wrought ſome halfe a day;</l>
+               <l>But was aſham'd to aske ſo much as they;</l>
+               <l>At night the Maſter cal'd to take our due,</l>
+               <l>And I receiv'd, thank God, a penny too:</l>
+               <l>Some of my neighbours mutter'd, but ſayes he,</l>
+               <l>You have a penny as we did agree.</l>
+               <l>Methinks it ſavours of corrupted bloud,</l>
+               <l>That your eye ſhould be ill 'cauſe mine is good;</l>
+               <l>I muſt confeſſe, the burthen of the day</l>
+               <l>Has been borne out by you, yet tell me pray,</l>
+               <l>Had not my loving grace aſſiſted ye,</l>
+               <l>For ought I know you had come as late as he:</l>
+               <pb n="27" facs="tcp:169842:16"/>
+               <l>And in concluſion graciouſly did ſay,</l>
+               <l>'Twere hard all Loyterers ſhould be cast away.</l>
+               <l>When I did heare the Maſter tell them this,</l>
+               <l>My ſoule was raviſht with his gentleneſſe,</l>
+               <l>And thought it was great pitty, men ſhould be</l>
+               <l>Backward to work for one, that was ſo free.</l>
+               <l>Maker of Heaven and Earth, if thou wilt hire</l>
+               <l>A poore and ſinfull ſoule, that doth deſire</l>
+               <l>To work by'th day; ile promiſe faithfully</l>
+               <l>To be laborious, for no one but thee:</l>
+               <l>He make no bargain with thee, but will ſtand</l>
+               <l>To thy owne courteſie, onely in hand</l>
+               <l>I doe deſire that thou wilt pleaſe to give</l>
+               <l>An earneſt penny, that my Soule may live,</l>
+               <l>And to declare if I ſhould queſtion'd bee</l>
+               <l>By any one, I doe belong to Thee;</l>
+               <l>This through thy tender mercie being done,</l>
+               <l>For feare of night, Ile come no more at noone.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
